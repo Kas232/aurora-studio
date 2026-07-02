@@ -52,3 +52,5 @@ This project was created to practice frontend web development and responsive UI 
 **Kashish**
 
 If you enjoyed this project, feel free to ⭐ the repository!
+# Update on 2 July 2026
+
